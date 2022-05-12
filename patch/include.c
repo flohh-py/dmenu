@@ -1,0 +1,5 @@
+#include "center.c"
+#include "dynamicoptions.c"
+#include "mousesupport.c"
+#include "numbers.c"
+#include "xresources.c"
